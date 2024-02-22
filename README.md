@@ -17,5 +17,7 @@ Responsive Design: Enjoy seamless experience across devices, whether it's deskto
 Technologies Used:
 
 API Integration: Utilizes weather APIs to fetch live data.
+
 Frontend: Developed using HTML, CSS, and JavaScript for a dynamic and interactive interface.
+
 Backend: No backend required; all data is fetched and processed client-side.
