@@ -6,9 +6,13 @@ This weather application provides real-time weather data for any location worldw
 Key Features:
 
 Real-Time Updates: Get the latest weather data for any location with up-to-the-minute accuracy.
+
 Customizable Location: Enter any location to view its current weather conditions.
+
 Comprehensive Data: Access detailed weather information including temperature, humidity, wind speed, and atmospheric pressure.
+
 User-Friendly Interface: Intuitive design makes it easy for users to navigate and understand the weather forecast.
+
 Responsive Design: Enjoy seamless experience across devices, whether it's desktop, tablet, or mobile.
 Technologies Used:
 
